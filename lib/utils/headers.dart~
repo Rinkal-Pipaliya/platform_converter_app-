@@ -1,0 +1,11 @@
+export 'package:flutter/material.dart';
+export 'dart:io';
+
+export 'package:contact_app/routes/routes.dart';
+export 'package:contact_app/screens/home/model/home_model.dart';
+export 'package:contact_app/screens/home/provider/home_provider.dart';
+export 'package:contact_app/utils/extension.dart';
+export 'package:image_picker/image_picker.dart';
+export 'package:provider/provider.dart';
+export 'package:contact_app/utils/theme_utils.dart';
+export 'import ';package;:flutter;/cupertino.dart;';
